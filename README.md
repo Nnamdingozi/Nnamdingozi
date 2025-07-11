@@ -30,6 +30,11 @@ Here are some ideas to get you started:
  An Admin-User dashboard with role based access. 
   Built with Next.js, Tailwind, Typescript, and Yup.
 
+- [ecommerce landing page](https://nnamdingozi.github.io/nshop/)  
+ An ecommerce landing page built with HTML and CSS 
+
+  
+
 
 
   
