@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### 🌟 Featured Projects
 
-- [classBridge - Online School Platform]()  
-  A modern education platform built with Next.js, Tailwind,Typescript and Supabase.
+- [classBridge - Online School Platform](https://onlineschool-9ke5.vercel.app)  
+  A modern education platform built with Next.js, Tailwind,Typescript, Supabase and AI SDK.
 
 - [FamilyShop](https://myecommerce-frontend.onrender.com)  
   e-commerce website with Seamless payment integration module for Nigerian eCommerce stores.
