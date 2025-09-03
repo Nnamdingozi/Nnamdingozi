@@ -27,9 +27,10 @@ Here are some ideas to get you started:
   Built with Next.js, Tailwind, Typescript, PostgreSql, Docker, Sequelize ORM and Yup.
 
 
-- [devcom](https://devcom-x73k.onrender.com)  
+- [devcom](https://devcom-x73k.onrender.com/api-doc)  
  A blog backend API built with Express, Prisma, Tailwind, and PostgreSQL
-  User authentication is implemented with Passport and Jwt tokens
+  User authentication is implemented with Passport and Jwt tokens;;
+  APi is fully documented using Swagger.
 
 - [Admin Dashboard](https://dashboard-r50u.onrender.com)  
  An Admin-User dashboard with role based access. 
