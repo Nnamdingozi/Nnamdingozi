@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   Built with Next.js, Tailwind, Typescript, PostgreSql, Docker, Sequelize ORM and Yup.
 
 
-- [devcom](https://devcom-x73k.onrender.com/api-doc)  
+- [devcom](https://devcom-x73k.onrender.com/api-docs)  
  A blog backend API built with Express, Prisma, Tailwind, and PostgreSQL
   User authentication is implemented with Passport and Jwt tokens;;
   APi is fully documented using Swagger.
