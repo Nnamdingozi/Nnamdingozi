@@ -26,6 +26,11 @@ Here are some ideas to get you started:
   e-commerce website with Seamless payment integration module for Nigerian eCommerce stores.
   Built with Next.js, Tailwind, Typescript, PostgreSql, Docker, Sequelize ORM and Yup.
 
+
+- [devcom](https://devcom-x73k.onrender.com)  
+ A blog backend API built with Express, Prisma, Tailwind, and PostgreSQL
+  User authentication is implemented with Passport and Jwt tokens
+
 - [Admin Dashboard](https://dashboard-r50u.onrender.com)  
  An Admin-User dashboard with role based access. 
   Built with Next.js, Tailwind, Typescript, and Yup.
