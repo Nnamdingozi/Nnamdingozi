@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - [classBridge - Online School Platform](https://onlineschool-9ke5.vercel.app)  
   A modern education platform built with Next.js, Tailwind,Typescript, Supabase and AI SDK.
 
-- [FamilyShop](https://my-ecommerce-livid.vercel.app)  
+- [FamilyShop](https://my-ecommerce-three-steel.vercel.app)  
   e-commerce website with Seamless payment integration module for Nigerian eCommerce stores.
   Built with Next.js, Tailwind, Typescript, PostgreSql, Docker, Prisma ORM and Yup.
 
