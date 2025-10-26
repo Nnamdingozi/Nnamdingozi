@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - [classBridge - Online School Platform](https://onlineschool-9ke5.vercel.app)  
   A modern education platform built with Next.js, Tailwind,Typescript, Supabase and AI SDK.
 
-- [FamilyShop](https://myecommerce-frontend.onrender.com)  
+- [FamilyShop](https://my-ecommerce-livid.vercel.app)  
   e-commerce website with Seamless payment integration module for Nigerian eCommerce stores.
-  Built with Next.js, Tailwind, Typescript, PostgreSql, Docker, Sequelize ORM and Yup.
+  Built with Next.js, Tailwind, Typescript, PostgreSql, Docker, Prisma ORM and Yup.
 
 
 - [devcom](https://devcom-x73k.onrender.com/api-docs)  
